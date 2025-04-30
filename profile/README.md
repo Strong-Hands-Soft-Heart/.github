@@ -1,12 +1,33 @@
-## Hi there 👋
+# Strong Hands, Soft Heart 🤝❤️
 
-<!--
+**Luxury crafts, sacred rituals, and powerful tools for modern creators.**
 
-**Here are some ideas to get you started:**
+We make real things — with love, precision, and power. From hand-forged beard oils to elemental t-shirts, every product is a living artifact of resilience, beauty, and grounded legacy.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌿 What We Make
+
+- **Dragon-Root Beard Oil**: A bold, earthy blend crafted for kings.  
+- **Soft Heart Beard Oil**: A floral, sensual oil — fierce but kind.  
+- **Alchemical T-Shirts**: Oversized, symbolic, and built to last.  
+- **Artisanal Soap Box** *(coming soon)*: Small-batch ritual soaps for body + soul.  
+- **Heavy Metal Music**: DIY albums, released on our own terms.  
+- **Open Source Tools**: Code that serves — minimal, reusable, and human-friendly.
+
+## 👣 Walk With Us
+
+We are more than a brand. We are a movement of men and women who build, grow, and protect.  
+If that calls to you — you’re already one of us.
+
+👉 [Explore our world](https://www.stronghandssoftheart.com/?utm_source=github&utm_medium=profile&utm_campaign=brand_launch)
+
+## 🛠️ Built by Antonio Rodriguez
+
+Technologist. Father. Builder.
+
+- [GitHub](https://github.com/antoniorodriguez)  
+- [Personal site](https://builds.software/)  
+- [Brand site](https://www.stronghandssoftheart.com/?utm_source=github&utm_medium=footer&utm_campaign=brand_launch)
+
+---
+**Strong Hands, Soft Heart LLC**  
+Made with grit, grace, and good hands.
