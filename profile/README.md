@@ -1,33 +1,33 @@
-# Strong Hands, Soft Heart 🤝❤️
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.stronghandssoftheart.com/brand/shsh-lockup-paper.svg">
+  <img alt="Strong Hands, Soft Heart" src="https://www.stronghandssoftheart.com/brand/shsh-lockup.svg" width="360">
+</picture>
 
-**Luxury crafts, sacred rituals, and powerful tools for modern creators.**
+**Soap, books and software. Made in Florida.**
 
-We make real things — with love, precision, and power. From hand-forged beard oils to elemental t-shirts, every product is a living artifact of resilience, beauty, and grounded legacy.
+Strong Hands, Soft Heart LLC is my company. I'm Antonio Rodríguez Martínez, from Puerto Rico, in Florida.
 
-## 🌿 What We Make
+| What | Status |
+| --- | --- |
+| [AI and engineering consulting](https://www.stronghandssoftheart.com/consulting) | Available |
+| [Two picture books](https://www.stronghandssoftheart.com/books), in English and Spanish | Free |
+| [Cold-process soap](https://www.stronghandssoftheart.com/soap), made in small batches | Planned: late 2026 |
+| Music: metal albums with friends | In progress |
 
-- **Dragon-Root Beard Oil**: A bold, earthy blend crafted for kings.  
-- **Soft Heart Beard Oil**: A floral, sensual oil — fierce but kind.  
-- **Alchemical T-Shirts**: Oversized, symbolic, and built to last.  
-- **Artisanal Soap Box** *(coming soon)*: Small-batch ritual soaps for body + soul.  
-- **Heavy Metal Music**: DIY albums, released on our own terms.  
-- **Open Source Tools**: Code that serves — minimal, reusable, and human-friendly.
+### Consulting
 
-## 👣 Walk With Us
+I help teams design, ship and stabilize software, from AI tools to core product platforms. I am a technical program manager and former CTO, and I still write code. I work with founders, product leads, engineering managers and engineers. [Services, and how to reach me](https://www.stronghandssoftheart.com/consulting#contact).
 
-We are more than a brand. We are a movement of men and women who build, grow, and protect.  
-If that calls to you — you’re already one of us.
+### The books
 
-👉 [Explore our world](https://www.stronghandssoftheart.com/?utm_source=github&utm_medium=profile&utm_campaign=brand_launch)
+[Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) and [The Bent One](https://the-bent-one-book.stronghandssoftheart.com) are short picture books I wrote for my kids and my nephew. Read them free in the browser, in English or Spanish. Story and art are CC BY-NC 4.0, and the code is MIT.
 
-## 🛠️ Built by Antonio Rodriguez
+### Repositories
 
-Technologist. Father. Builder.
+- [stronghandssoftheart.com](https://github.com/Strong-Hands-Soft-Heart/stronghandssoftheart.com): the company site. Astro, built from the SH&SH design system.
 
-- [GitHub](https://github.com/antoniorodriguez)  
-- [Personal site](https://builds.software/)  
-- [Brand site](https://www.stronghandssoftheart.com/?utm_source=github&utm_medium=footer&utm_campaign=brand_launch)
+### Contact
 
----
-**Strong Hands, Soft Heart LLC**  
-Made with grit, grace, and good hands.
+[hello@stronghandssoftheart.com](mailto:hello@stronghandssoftheart.com) · [stronghandssoftheart.com](https://www.stronghandssoftheart.com) · [llms.txt](https://www.stronghandssoftheart.com/llms.txt)
+
+The founder writes at [Notes](https://notes.antoniwan.online). More about him at [antoniwan.online](https://antoniwan.online) and [@antoniwan](https://github.com/antoniwan).
