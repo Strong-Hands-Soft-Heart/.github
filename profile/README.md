@@ -25,6 +25,8 @@ I help teams design, ship and stabilize software, from AI tools to core product 
 ### Repositories
 
 - [stronghandssoftheart.com](https://github.com/Strong-Hands-Soft-Heart/stronghandssoftheart.com): the company site. Astro, built from the SH&SH design system.
+- [book-sun-and-moon](https://github.com/Strong-Hands-Soft-Heart/book-sun-and-moon): Mia, the Sun, and the Moon. React and Vite.
+- [the-bent-one](https://github.com/Strong-Hands-Soft-Heart/the-bent-one): The Bent One. Vite.
 
 ### Contact
 
